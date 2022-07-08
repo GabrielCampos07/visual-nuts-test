@@ -24,8 +24,8 @@ Write a function in javascript that:
 - to find the most common official language(s), of all countries.
 
 ## What is done
-[ ] Exercise 1
-[ ] Exercise 2
+* [ ] Exercise 1
+* [ ] Exercise 2
 
 ## What I used
 
