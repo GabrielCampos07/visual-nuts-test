@@ -1,0 +1,29 @@
+{
+	"name": "visual-nuts-test",
+	"version": "1.0.0",
+	"description": "test for visual nuts",
+	"main": "index.js",
+	"dependencies": {
+		"axios": "^0.27.2",
+		"jasmine": "^4.2.1"
+	},
+	"type": "module",
+	"devDependencies": {},
+	"scripts": {
+		"test": "jasmine",
+		"start": "json-server --watch db.json --port 3000"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/GabrielCampos07/visual-nuts-test.git"
+	},
+	"keywords": [
+		"testonly"
+	],
+	"author": "Gabriel Campos",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/GabrielCampos07/visual-nuts-test/issues"
+	},
+	"homepage": "https://github.com/GabrielCampos07/visual-nuts-test#readme"
+}
