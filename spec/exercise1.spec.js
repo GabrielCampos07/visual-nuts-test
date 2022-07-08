@@ -1,4 +1,4 @@
-import { showingItems, printingItems } from '../src/exercise1.js';
+import { showingItems } from '../src/exercise1.js';
 
 describe('Visual Nuts Test', function () {
 
@@ -37,13 +37,4 @@ describe('Visual Nuts Test', function () {
             expect(showingItems(4)).toBe(4);
         });
     });
-
-    describe('Numbers is over than 100', function () {
-        it('Must return the correct results when the number is over than 100', function () {
-            expect(printingItems(500)).toContain('Nuts');
-            expect(printingItems(500)).toContain('Visual');
-            expect(printingItems(500)).toContain('Visual Nuts');
-            expect(printingItems(500)).toContain(jasmine.any(Number));
-        })
-    })
 });
