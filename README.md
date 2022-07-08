@@ -37,7 +37,7 @@ Write a function in javascript that:
 
 * **npm** install
 * **npm** start
-* press Ctrl + Alt + N to run de JS codes.
+* Ctrl + Alt + N to run de JS codes.
 
 ## How to test:
 
