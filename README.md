@@ -35,9 +35,9 @@ Write a function in javascript that:
 
 ## How to run:
 
-* **npm** install
-* **npm** start
-* Ctrl + Alt + N to run de JS codes.
+* **npm** install to install the dependencies.
+* **npm** start to run the json server.
+* **Ctrl + Alt + N** to run de JS codes.
 
 ## How to test:
 
