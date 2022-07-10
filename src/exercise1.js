@@ -1,8 +1,10 @@
 const printingItems = (numberSelected) => {
-    let numbers = []
+    let numbers = [];
+
     for (let number = 1; number <= numberSelected; number++) {
-        numbers.push(showingItems(number))
+        numbers.push(showingItems(number));
     }
+
     return numbers;
 }
 
@@ -26,6 +28,5 @@ const isDivisibleBy = (divided, divider) => {
 console.log(printingItems(100));
 
 export {
-    showingItems,
-    printingItems
+    showingItems
 }
