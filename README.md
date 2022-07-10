@@ -39,7 +39,7 @@ Write a function in javascript that:
 * **npm** start to run the json server.
 * **Ctrl + Alt + N** to run de JS codes.
 
-## How to test:
+## How do tests:
 
 * **npm** test
 
