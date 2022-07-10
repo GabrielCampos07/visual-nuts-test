@@ -1,11 +1,11 @@
 const printingItems = (numberSelected) => {
-    let numbers = [];
+    let _numbers = [];
 
     for (let number = 1; number <= numberSelected; number++) {
-        numbers.push(showingItems(number));
+        _numbers.push(showingItems(number));
     }
 
-    return numbers;
+    return _numbers;
 }
 
 const showingItems = (number) => {
