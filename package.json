@@ -5,8 +5,7 @@
 	"main": "index.js",
 	"dependencies": {
 		"axios": "^0.27.2",
-		"jasmine": "^4.2.1",
-		"json-server": "^0.17.0"
+		"jasmine": "^4.2.1"
 	},
 	"type": "module",
 	"devDependencies": {},
